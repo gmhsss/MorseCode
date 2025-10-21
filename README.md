@@ -3,7 +3,6 @@
 **Disciplina:** Resolução de Problemas Estruturados  
 **Linguagem:** Java (sem uso de bibliotecas externas)  
 
----
 
 ## Objetivo
 
@@ -28,5 +27,11 @@ A árvore permite:
 - `length()` foi usado **somente em String**  
 - Nenhuma função pronta de estrutura de dados foi utilizada
 
----
+## Como Compilar e Executar
 
+No terminal:
+
+```bash
+cd 
+javac Main.java
+java Main
