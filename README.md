@@ -32,6 +32,5 @@ A árvore permite:
 No terminal:
 
 ```bash
-cd 
 javac Main.java
 java Main
