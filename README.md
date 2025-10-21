@@ -17,16 +17,6 @@ A árvore permite:
 - Remover um símbolo sem destruir a estrutura  
 - Exibir a árvore de forma hierárquica  
 
----
-
-## Restrições Atendidas
-
-- **Sem arrays, listas ou coleções**  
-- **Sem StringBuilder, tipos abstratos, try/catch ou throws**  
-- Apenas `String`, `int` e funções básicas de entrada/saída  
-- `length()` foi usado **somente em String**  
-- Nenhuma função pronta de estrutura de dados foi utilizada
-
 ## Como Compilar e Executar
 
 No terminal:
