@@ -1,5 +1,5 @@
 # Morse Code Binary Tree  
-Implementação em Java de uma **Árvore Binária de Código Morse** para **codificar** texto em pontos e traços e **decodificar** sequências de Morse de volta para caracteres. Projeto acadêmico voltado ao domínio de árvores e travessias, com foco em autoria, clareza e prova de conhecimento.
+Implementação em Java de uma **Árvore Binária de Código Morse** para **codificar** texto em pontos e traços e **decodificar** sequências de Morse de volta para caracteres. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-blue" />
